@@ -5,7 +5,8 @@ Dataset : https://drive.google.com/drive/folders/15eJk0j0YdEKVLUYT6EYO-HvJPEPNip
 1. Install Python
 2. Install Python packages
    ```
-   pip3 install -r requirements.txt
+   pip3 install -r training/requirements.txt
+   pip3 install -r api/requirements_api.txt
    ```
 ## Training the Model:
 1. Download the data from the google drive link.
