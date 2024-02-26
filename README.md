@@ -1,4 +1,5 @@
 # Disease-Detector
+Dataset : https://drive.google.com/drive/folders/15eJk0j0YdEKVLUYT6EYO-HvJPEPNipqX?usp=sharing
 
 ## Python Setup:
 1. Install Python
