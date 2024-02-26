@@ -14,7 +14,7 @@ Dataset : https://drive.google.com/drive/folders/15eJk0j0YdEKVLUYT6EYO-HvJPEPNip
 4. Update the path to the dataset.
 5. Run all cells.
    
-## To run the API
+## To run the API:
 1. Select the api folder.
 2. Run the FastAPI Server using uvicorn
    ```
